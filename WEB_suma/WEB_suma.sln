@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WEB_suma", "WEB_suma\WEB_suma.csproj", "{297FD155-63DF-4D8A-A2F6-D2A341368A65}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nueva Suma", "Nueva Suma\Nueva Suma.csproj", "{98C561B5-4967-4509-B235-6DFFB6508CBD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{297FD155-63DF-4D8A-A2F6-D2A341368A65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{297FD155-63DF-4D8A-A2F6-D2A341368A65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{297FD155-63DF-4D8A-A2F6-D2A341368A65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{297FD155-63DF-4D8A-A2F6-D2A341368A65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98C561B5-4967-4509-B235-6DFFB6508CBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98C561B5-4967-4509-B235-6DFFB6508CBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98C561B5-4967-4509-B235-6DFFB6508CBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98C561B5-4967-4509-B235-6DFFB6508CBD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {435732DA-A6CD-432F-88D6-72DB6A073248}
+	EndGlobalSection
+EndGlobal
